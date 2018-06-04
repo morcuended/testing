@@ -5,4 +5,5 @@ def fib(N):
         return 1
     return fib(N - 1)
 a=1
+b=2
 
